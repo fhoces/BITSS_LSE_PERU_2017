@@ -10,7 +10,7 @@ affiliation: UC Berkeley
 
 Taller de Git & GitHub Desktop
 ==============================
-BITSS PUC-Chile 2017
+BITSS LSE-PERU 2017
 ------------------------------
 Fernando Hoces de la Guardia
 
@@ -77,7 +77,7 @@ Como [Atom](http://atom.io), Sublime o Notepad++ (el editor de do-files de Stata
 
 Vamos a ocupar nuestra nueva cuenta de Github para hacer *fork* `fork`<sup>1</sup> de un respositorio -- el mismo repositorio en el cual fue creado este taller!
 
-* Vayan a [https://github.com/fhoces/BITSS_PUC_CHILE_2017](https://github.com/fhoces/BITSS_PUC_CHILE_2017)
+* Vayan a [https://github.com/fhoces/BITSS_PUC_CHILE_2017](https://github.com/fhoces/BITSS_LSE_PERU_2017)
 
 * Busquen el botón que dice 'fork' en la esquina superior derecha y hagan click
 
