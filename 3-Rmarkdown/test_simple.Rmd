@@ -1,0 +1,14 @@
+---
+title: "Mi Manuscrito"
+author: "Yo"
+date: "10/10/2017"
+output: pdf_document
+---
+
+Algun texto  
+
+```{r primer chunk}
+# Nuetro primer histograma
+
+hist(rnorm(1000, sd = 10))
+```
